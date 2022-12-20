@@ -1,0 +1,104 @@
+{
+  "language": {
+    "en": "EN",
+    "ru": "VN"
+  },
+  "header": {
+    "signin": "Đăng Nhập",
+    "signup": "Đăng Ký",
+    "signout": "Đăng Xuất",
+    "profile": "Người Dùng",
+    "linkToMain": "Trở về trang chính"
+  },
+  "button": {
+    "back": "Trở về"
+  },
+  "board": {
+    "caption": "Bảng",
+    "title": "Tiêu đề",
+    "description": "Chú thích"
+  },
+  "column": {
+    "caption": "Bảng",
+    "title": "Tiêu đề",
+    "order": "Chú thích"
+  },
+  "boards": {
+    "caption": "Bảng"
+  },
+  "task": {
+    "caption": "Bảng",
+    "title": "Заголовок",
+    "description": "Описание",
+    "order": "Порядок",
+    "user": "Пользователь",
+    "upload": "Загрузить файлы"
+  },
+  "user": {
+    "caption": "Редактирование профиля",
+    "name": "Имя",
+    "login": "Логин",
+    "password": "Пароль"
+  },
+  "modal": {
+    "yes": "Да",
+    "cancel": "Отмена",
+    "delete": {
+      "title": "Удалание",
+      "description": "Удалить без возможности восстановления?"
+    },
+    "create": {
+      "title": "Создать",
+      "description": "Создать новый элемент?",
+      "yes": "Создать"
+    },
+    "edit": {
+      "title": "Редактирование",
+      "description": "Сохранить изменение элемента?",
+      "yes": "Сохранить"
+    }
+  },
+  "primary_title": {
+    "tit": "Công cụ quản lí công việc tuyệt vời",
+    "subheading": "Quản lý tác vụ đáng tin cậy ",
+    "primary-title_span": "Gắn Kết",
+    "primary-title_meet": "Mọi Người",
+    "time": "SẮP XẾT MỌI THỨ HIỆU QUẢ",
+    "time_text": "Phân chia quản lý các công việc rõ ràng theo từng vị trí và tình trạng bao gồm mô tả công việc cụ thể, thời gian, tình trạng hoàn thành công việc.​ ",
+    "time_text_br": "Phần mềm quản lý tác vụ cần cung cấp cái nhìn tổng quan về công việc để biến ý tưởng thành kết quả.",
+    "work": "LIÊN KẾT MỌI NGƯỜI",
+    "work_text": "Cho dù bạn đang quản lý dự án lớn tiếp theo của mình hay quản lý công việc hàng ngày, bạn cần biết ai đang làm gì, khi đó KanBan giúp bạn quản lý các tác vụ trong một cách đẹp mắt và tùy chỉnh phù hợp hoàn toàn phù hợp với nhu cầu của bạn.",
+    "work_distant": "LÀM VIỆC TỪ XA",
+    "work_distant_text": "Khi nhóm của bạn làm việc tại nhà, một cách hiệu quả để chia sẻ thông tin là điều cần thiết để làm việc hiệu quả. Sử dụng KanBan cải thiện sự cộng tác, quản lý nhiệm vụ hiệu quả và đảm bảo dự án chạy trơn tru.",
+    "meet_team": "Gặp Gỡ Các Developer",
+    "illia": "Phạm Quốc Hùng",
+    "illia_team": "Backend developer                                    ",
+    "illia_text1": "Xử lý phần backend",
+    "illia_text2": "Quản lí database user, database KanBan, Bảo trì vận hành, sửa bug",
+    "illia_text3": "Deploy App",
+    "illia_text4": " ",
+    "illia_text5": " ",
+    "andrey": "Nguyễn Ngọc Huy",
+    "andrey_team": "Frontend Developer",
+    "andrey_text1": "Phân quyền User                                   ",
+    "andrey_text2": "Đăng Nhập Đăng ký user",
+    "andrey_text3": "Code giao diện UI, tối ưu code, bảo trì, sửa bug, thêm chức năng user              ",
+    "andrey_text4": "",
+    "andrey_text5": "",
+    "tatsiana": "Lê Dương Khánh Việt",
+    "tatsiana_team": "Frontend Developer",
+    "tatsiana_text1": "Làm giao diện KanBan",
+    "tatsiana_text2": "Tối ưu code, bảo trì, thêm chức năng cho KanBan",
+    "tatsiana_text3": "Code giao diện UI",
+    "tatsiana_text4": "",
+    "tatsiana_text5": ""
+  },
+  "validation": {
+    "empty": "Поле не может быть пустым",
+    "password": "Пароль должен содержать минимум 8 символов, хотя бы одну букву и число"
+  },
+  "search": {
+    "placeholder": "Поиск",
+    "result": "Результаты поиска"
+  }
+}
