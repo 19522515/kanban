@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8079004b.css",
+    "main.js": "/static/js/main.fcc22de7.js",
+    "static/media/background3.jpg": "/static/media/background3.328766007f0c4314e45d.jpg",
+    "static/media/notFound.jpg": "/static/media/notFound.36b80da6c97e7a53a69f.jpg",
+    "static/media/project-management-back.png": "/static/media/project-management-back.6f46b0c9db84bce8fb02.png",
+    "static/media/Abstract_Grid.jpg": "/static/media/Abstract_Grid.5b50272659e9a4b295d4.jpg",
+    "static/media/el2.svg": "/static/media/el2.e98a899a10d13c19b1fee0a5a440e7ed.svg",
+    "static/media/kanbanlogo.jpg": "/static/media/kanbanlogo.0ec4ca3ab843743653cd.jpg",
+    "static/media/el4.svg": "/static/media/el4.eef4a80a8ba516de13667b78faaa160b.svg",
+    "static/media/el5.svg": "/static/media/el5.53aa31576d474f76ed6c13fbaa4d19b4.svg",
+    "static/media/andrey.jpg": "/static/media/andrey.3ebee2b5d8b36765d018.jpg",
+    "static/media/ilia.jpg": "/static/media/ilia.7cbce1e04ba11d1c676c.jpg",
+    "static/media/el1.svg": "/static/media/el1.a1e3e650fe7f512e7010c32458915978.svg",
+    "static/media/heroWelcome.jpg": "/static/media/heroWelcome.738fa2b50e723b9b8125.jpg",
+    "static/media/el6.svg": "/static/media/el6.d90ee57451aee7a8eced3fce11a95ca2.svg",
+    "static/media/tatiana.jpg": "/static/media/tatiana.28366c06e281267c840e.jpg",
+    "static/media/logoSchool.svg": "/static/media/logoSchool.0b4d42b55fe34f882a90.svg",
+    "index.html": "/index.html",
+    "main.8079004b.css.map": "/static/css/main.8079004b.css.map",
+    "main.fcc22de7.js.map": "/static/js/main.fcc22de7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8079004b.css",
+    "static/js/main.fcc22de7.js"
+  ]
+}
